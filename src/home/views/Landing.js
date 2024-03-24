@@ -195,7 +195,7 @@ alert(uid)
 //   // const [messages] = useCollectionData(query, { idField: 'id' });
 //   // console.log(messages)
 //   // firebase.initializeApp({
-//   //   apiKey: "AIzaSyAXab0x7u_R8K2YpCC-SepABQ004F715HY",
+//   //   apiKey: "",
 //   //   authDomain: "chatappfirestore-378007.firebaseapp.com",
 //   //   projectId: "chatappfirestore-378007",
 //   //   storageBucket: "chatappfirestore-378007.appspot.com",
